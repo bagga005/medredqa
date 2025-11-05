@@ -177,3 +177,8 @@ This allows you to see exactly which criteria the model passed or failed, along 
 - Arrays in `info` (criteria, points_list, axes, consensus_criteria) are all aligned by index - the first element of each corresponds to the first rubric criterion
 - Point values can be negative for undesirable behaviors (e.g., -2 points for "Gives dangerous medical advice")
 - The total score is normalized to 0-1 regardless of the actual point scale used
+
+### Authors
+This environment has been put together by:
+
+Sameed Khan - ([@sameed-khan](https://github.com/sameed-khan))
