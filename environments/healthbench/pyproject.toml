@@ -16,6 +16,10 @@ dev = [
     "ty>=0.0.1a21",
 ]
 
+authors = [
+    { name = "Sameed Khan", email = "sameedgkhan@gmail.com" },
+]
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
